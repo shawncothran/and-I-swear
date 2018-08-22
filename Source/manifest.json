@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "And I Swear",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
+	"description": "Replaces common words with their vulgar counterpart and superimposes some superfluous cursing",
 	"author": "Shawn Cothran",
 	"version": "1.0",
 	"content_scripts":
