@@ -1,2 +1,2 @@
-Please review the guidelines for contributing to this repository: 
-https://github.com/ericwbailey/millennials-to-snake-people/blob/master/CONTRIBUTING.md
+Please review the guidelines for contributing to this repository:
+https://github.com/shawncothran/and-i-swear/blob/master/CONTRIBUTING.md
